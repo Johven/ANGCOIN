@@ -1,10 +1,14 @@
 <!-- This issue tracker is only for technical issues related to ANGCOIN Core.
 
-General angcoin questions and/or support requests and are best directed to the [angcointalk.io forums](https://angcointalk.io/).
+General angcoin questions and/or support requests are best directed to the ANGCOIN StackExchange at https://angcoin.stackexchange.com.
 
-For reporting security issues, please contact the ANGCOIN developers on the #angcoin-dev Freenode IRC channel or alternatively you can email us at contact@angcoin.org.
+For reporting security issues, please read instructions at https://angcoincore.org/en/contact/.
 
-If the node is "stuck" during sync or giving "block checksum mismatch" errors, please ensure your hardware is stable by running memtest and observe CPU temperature with a load-test tool such as linpack before creating an issue! -->
+If the node is "stuck" during sync or giving "block checksum mismatch" errors, please ensure your hardware is stable by running memtest and observe CPU temperature with a load-test tool such as linpack before creating an issue!
+
+Any report, issue or feature request related to the GUI should be reported at
+https://github.com/angcoin-core/gui/issues/
+-->
 
 <!-- Describe the issue -->
 <!--- What behavior did you expect? -->
@@ -17,7 +21,7 @@ If the node is "stuck" during sync or giving "block checksum mismatch" errors, p
 
 <!-- What type of machine are you observing the error on (OS/CPU and disk type)? -->
 
-<!-- For the GUI-related issue on Linux provide names and versions of a distro, a desktop environment and a graphical shell (if relevant). -->
+<!-- GUI-related issue? What is your operating system and its version? If Linux, what is your desktop environment and graphical shell? -->
 
 <!-- Any extra information that might be useful in the debugging process. -->
 <!--- This is normally the contents of a `debug.log` or `config.log` file. Raw text or a link to a pastebin type site are preferred. -->

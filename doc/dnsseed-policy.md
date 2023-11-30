@@ -44,11 +44,11 @@ related to the DNS seed operation.
 If these expectations cannot be satisfied the operator should
 discontinue providing services and contact the active ANGCOIN
 Core development team as well as posting on
-[angcoin-dev](https://groups.google.com/forum/#!forum/angcoin-dev).
+[angcoin-dev](https://lists.linuxfoundation.org/mailman/listinfo/angcoin-dev).
 
 Behavior outside of these expectations may be reasonable in some
 situations but should be discussed in public in advance.
 
 See also
 ----------
-- [angcoin-seeder](https://github.com/pooler/angcoin-seeder) is a reference implementation of a DNS seed.
+- [angcoin-seeder](https://github.com/sipa/angcoin-seeder) is a reference implementation of a DNS seed.

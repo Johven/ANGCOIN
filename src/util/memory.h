@@ -1,11 +1,10 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2018 The Bitcoin Core developers
-// Copyright (c) 2022 The ANGCOIN Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOIN_UTIL_MEMORY_H
-#define BITCOIN_UTIL_MEMORY_H
+#ifndef ANGCOIN_UTIL_MEMORY_H
+#define ANGCOIN_UTIL_MEMORY_H
 
 #include <memory>
 #include <utility>
